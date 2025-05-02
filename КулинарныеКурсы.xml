@@ -1,0 +1,68 @@
+﻿<Сooking courses="">
+	<instructors>
+		<instructor id = "12345678">
+			<name>Анна Каренина</name>
+			<specialization>Итальянская кухня</specialization>
+			<experience>7</experience>
+			<contact>
+				<email>anna.karenina@culinary.com</email>
+				<phone>+7 (123) 456-7890</phone>
+				<address>ул. Кремлевская, д. 5, кв. 12</address>
+			</contact>
+			<students>
+				<student id = "101">
+					<name>Михаил Маркелов</name>
+					<skillLevel>Продвинутый</skillLevel>
+				</student>
+
+				<student id = "102">
+					<name>Руслана Лисюткина</name>
+					<skillLevel>Средний</skillLevel>
+				</student>
+			</students>
+		</instructor>
+
+		<instructor id = "23456789">
+			<name>Валеев Сергей</name>
+			<specialization>Французская кухня</specialization>
+			<experience>10</experience>
+			<contact>
+				<email>valeev@culinary.com</email>
+				<phone>+7 (987) 654-3210</phone>
+				<address>пр. Пушкина, д. 22, кв. 45</address>
+			</contact>
+			<students>
+				<student id = "103">
+					<name>Алексей Габов</name>
+					<skillLevel>Продвинутый</skillLevel>
+				</student>
+				<student id = "104">
+					<name>Зарина Хубайбулина</name>
+					<skillLevel>Начинающий</skillLevel>
+				</student>
+
+				<student id = "105">
+					<name>Сергей Волков</name>
+					<skillLevel>Средний</skillLevel>
+				</student>
+			</students>
+		</instructor>
+
+		<instructor id = "34567892">
+			<name>Анжела Пушкина</name>
+			<specialization>Кондитерское искусство</specialization>
+			<experience>15</experience>
+			<contact>
+				<email>pushkina@culinary.com</email>
+				<phone>+7 (555) 123-4567</phone>
+				<address>ул. Парина, д. 3, кв. 7</address>
+			</contact>
+			<students>
+				<student id = "106">
+					<name>Дана Халикова</name>
+					<skillLevel>Продвинутый</skillLevel>
+				</student>
+			</students>
+		</instructor>
+	</instructors>
+</Сooking courses>
